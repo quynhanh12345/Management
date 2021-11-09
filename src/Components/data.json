@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Jean-Christophe Bouvet",
+        "phoneNumber": "0123456789",
+        "role": 1
+    },
+    {
+        "id": 2,
+        "name": "Pierre Cadault",
+        "phoneNumber": "0763456789",
+        "role": 3
+    },
+    {
+        "id": 3,
+        "name": "Charles Martins",
+        "phoneNumber": "0734456789",
+        "role": 2
+    },
+    {
+        "id": 4,
+        "name": "Mathieu Cadault",
+        "phoneNumber": "0734451289",
+        "role": 2
+    },
+    {
+        "id": 5,
+        "name": "Aleksandra Yermak",
+        "phoneNumber": "0789451289",
+        "role": 1
+    }
+]
